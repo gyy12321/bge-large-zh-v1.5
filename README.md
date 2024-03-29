@@ -2,6 +2,11 @@
 license: mit
 language:
 - zh
+tags:
+  - sentence-transformers
+  - feature-extraction
+  - sentence-similarity
+  - transformers
 ---
 
 
@@ -420,4 +425,3 @@ If you find this repository useful, please consider giving a star :star: and cit
 
 ## License
 FlagEmbedding is licensed under the [MIT License](https://github.com/FlagOpen/FlagEmbedding/blob/master/LICENSE). The released models can be used for commercial purposes free of charge.
-
