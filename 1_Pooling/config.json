@@ -1,7 +1,3 @@
-{
-  "word_embedding_dimension": 1024,
-  "pooling_mode_cls_token": true,
-  "pooling_mode_mean_tokens": false,
-  "pooling_mode_max_tokens": false,
-  "pooling_mode_mean_sqrt_len_tokens": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e43e887696b4433af272cb0faa145b555c3e361948c1ec5775a2239ac57d53dc
+size 197

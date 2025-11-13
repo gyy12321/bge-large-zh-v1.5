@@ -1,7 +1,3 @@
-{
-  "__version__": {
-    "sentence_transformers": "2.2.2",
-    "transformers": "4.28.1",
-    "pytorch": "1.13.0+cu117"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:95c99da340dd269a334c4345a947b04a994d5f62dcc26b85f8bdec0edc2212c8
+size 130
